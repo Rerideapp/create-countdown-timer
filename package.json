@@ -1,0 +1,15 @@
+{
+  "name": "create-countdown-timer",
+  "version": "1.0.0",
+  "description": "Create a countdown timer app. User can set minutes and seconds, then start/pause/reset the timer. Display time remaining in large, clear numbers.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
